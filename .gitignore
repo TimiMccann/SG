@@ -1,0 +1,5 @@
+# Build / generated artefacts
+sg_simulation_result.png
+__pycache__/
+*.pyc
+.pytest_cache/
